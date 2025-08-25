@@ -375,9 +375,8 @@ Use your browser’s **Find (Ctrl+F / Cmd+F)** to quickly locate your institute 
 
 1. **Repository presentation**  
    - Clean description pinned at top:  
-     > “Unofficial archive of Maharashtra CET Cell CAP 2025 PDFs (FE & DSE). Preserved for future reference; original source: cetcell.mahacet.org.”
+     > “Unofficial archive of Maharashtra CET Cell CAP 2025 PDFs (DSE). Preserved for future reference; original source: cetcell.mahacet.org.”
    - Tags: `mahacet`, `mhtcet`, `cap-rounds`, `admissions`, `engineering`
-   - Repo name suggestion: `mahacet-cap-2025-archive`
 
 2. **Automation & maintainability**  
 - One table-generator script → reusable for 2026, 2027…  
