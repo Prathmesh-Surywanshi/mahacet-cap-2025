@@ -5,14 +5,10 @@ Preserved for future reference.
 **Original source:** [cetcell.mahacet.org](https://cetcell.mahacet.org)  
 
 ---
-
 ## 🔎 Tip  
 Use your browser’s **Find (Ctrl+F / Cmd+F)** to quickly locate your institute by name or code.
-
 ---
-
 ## 🏫 Institute-wise CAP Allotment PDFs
-
 | Inst. Code | Institute Name | CAP 1 | CAP 2 | CAP 3 | CAP 4 |
 |------------|----------------|-------|-------|-------|-------|
 | 1002 | Government College of Engineering, Amravati | [View](cap-1/1002.pdf) | [View](cap-2/1002.pdf) | — | — |
