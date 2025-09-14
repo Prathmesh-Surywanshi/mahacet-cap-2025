@@ -385,31 +385,6 @@ Use your browser’s **Find (Ctrl+F / Cmd+F)** to quickly locate your institute 
 | 16357 | MES MUKUNDDAS LOHIA COLLEGE OF ENGINEERING | [View](cap-1/16357.pdf) | [View](cap-2/16357.pdf) | [View](cap-3/16357.pdf) | [View](cap-4/16357.pdf) |
 | 16361 | Zeal College of Engineering & Research, Induri, Pune (Off Campus-Induri) | [View](cap-1/16361.pdf) | [View](cap-2/16361.pdf) | [View](cap-3/16361.pdf) | [View](cap-4/16361.pdf) |
 
-
-
-
 ---
 
-## 📂 Repository Notes
-
-1. **Repository presentation**  
-   - Clean description pinned at top:  
-     > “Unofficial archive of Maharashtra CET Cell CAP 2025 PDFs (FE). Preserved for future reference; original source: cetcell.mahacet.org.”
-   - Tags: `mahacet`, `mhtcet`, `cap-rounds`, `admissions`, `engineering`
-
-2. **Automation & maintainability**  
-- One table-generator script → reusable for 2026, 2027…  
-- Replace missing PDFs with `—` until uploaded.
-
-3. **Usability**  
-- Search institutes with **Ctrl+F**  
-- Possible future JSON/CSV index for developers.
-
-4. **Legal / disclaimer**  
-- **Not official.** PDFs sourced from CET Cell public portal.  
-- Archive maintained for transparency and reference.  
-- Scripts & README licensed under MIT/CC-BY.  
-
----
-
-📅 *Last updated: 2025-08-25*  
+📅 *Last updated: 2025-09-14*  

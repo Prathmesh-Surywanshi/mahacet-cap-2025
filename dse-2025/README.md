@@ -363,30 +363,6 @@ Use your browser’s **Find (Ctrl+F / Cmd+F)** to quickly locate your institute 
 | 16121 | Shri. Anandrao Abitkar College of Engineering, Pal | [View](cap-1/16121.pdf) | [View](cap-2/16121.pdf) | [View](cap-3/16121.pdf) | [View](cap-4/16121.pdf) |
 | 16126 | Tatyasaheb Kore Institute of Engineering and Technology, Yelur | [View](cap-1/16126.pdf) | [View](cap-2/16126.pdf) | [View](cap-3/16126.pdf) | [View](cap-4/16126.pdf) |
 
-
-
 ---
 
-## 📂 Repository Notes
-
-1. **Repository presentation**  
-   - Clean description pinned at top:  
-     > “Unofficial archive of Maharashtra CET Cell CAP 2025 PDFs (DSE). Preserved for future reference; original source: cetcell.mahacet.org.”
-   - Tags: `mahacet`, `mhtcet`, `cap-rounds`, `admissions`, `engineering`
-
-2. **Automation & maintainability**  
-- One table-generator script → reusable for 2026, 2027…  
-- Replace missing PDFs with `—` until uploaded.
-
-3. **Usability**  
-- Search institutes with **Ctrl+F**  
-- Possible future JSON/CSV index for developers.
-
-4. **Legal / disclaimer**  
-- **Not official.** PDFs sourced from CET Cell public portal.  
-- Archive maintained for transparency and reference.  
-- Scripts & README licensed under MIT/CC-BY.  
-
----
-
-📅 *Last updated: 2025-08-25*  
+📅 *Last updated: 2025-09-14*  
